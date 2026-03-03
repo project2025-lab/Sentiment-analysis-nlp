@@ -33,4 +33,4 @@ The workflow includes:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/project2025-lab/Sentiment-analysis-nlp.git
+git clone https://github.com/project2025-lab/Sentiment-analysis-nlp.git...
